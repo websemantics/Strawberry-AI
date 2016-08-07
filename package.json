@@ -1,0 +1,29 @@
+{
+  "name": "login-bot",
+  "version": "1.0.0",
+  "description": "The idea is to create an AI that learns how to register and login to webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websemantics/login-bot.git"
+  },
+  "keywords": [
+    "ai",
+    "bot",
+    "learning",
+    "login",
+    "headless"
+  ],
+  "author": "Adnan M.Sagar, PhD.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/websemantics/login-bot/issues"
+  },
+  "homepage": "https://github.com/websemantics/login-bot#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.10"
+  }
+}
